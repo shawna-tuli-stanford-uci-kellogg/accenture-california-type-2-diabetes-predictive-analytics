@@ -6,6 +6,8 @@
 
 I am mentoring 3 UCI ICS Data Science seniors in their 10-week Data Science Capstone on predicting risk of Type 2 Diabetes with AI in California.
 
+![standard](https://user-images.githubusercontent.com/19508013/169395806-5f4e08f0-949e-4651-8f06-c9dfc00652b0.png)
+
 ![uci_Ics_d_fl_p7685](https://user-images.githubusercontent.com/19508013/165648227-43cf92b5-ec29-467e-bc83-44602f56bd18.png)
 
 ![UCLA-CHIS-logo-1-1024x285](https://user-images.githubusercontent.com/19508013/165639797-0fcc7fa3-6822-435d-9be5-1f1a7c277267.png)
