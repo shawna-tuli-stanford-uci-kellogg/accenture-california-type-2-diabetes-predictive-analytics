@@ -10,4 +10,4 @@
 
 ![UCLA-CHIS-logo-1-1024x285](https://user-images.githubusercontent.com/19508013/165639797-0fcc7fa3-6822-435d-9be5-1f1a7c277267.png)
 
-![BMJ open 2017](https://user-images.githubusercontent.com/19508013/170845332-7ccf2a3e-7dc4-4461-b310-1d863e2cf12e.png)
+![BMJ OPEN DIABETES RESEARCH   CARE](https://user-images.githubusercontent.com/19508013/170845344-6ef7a812-59e4-41a2-aae4-ef0493d44c1c.png)
