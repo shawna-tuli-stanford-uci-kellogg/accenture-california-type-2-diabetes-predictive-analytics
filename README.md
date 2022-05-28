@@ -9,3 +9,5 @@
 ![uci_Ics_d_fl_p7685](https://user-images.githubusercontent.com/19508013/165648227-43cf92b5-ec29-467e-bc83-44602f56bd18.png)
 
 ![UCLA-CHIS-logo-1-1024x285](https://user-images.githubusercontent.com/19508013/165639797-0fcc7fa3-6822-435d-9be5-1f1a7c277267.png)
+
+![BMJ open 2017](https://user-images.githubusercontent.com/19508013/170845332-7ccf2a3e-7dc4-4461-b310-1d863e2cf12e.png)
