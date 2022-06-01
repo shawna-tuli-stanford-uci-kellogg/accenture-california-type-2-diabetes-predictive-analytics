@@ -17,5 +17,3 @@
 # Presentation
 
 ![image](https://user-images.githubusercontent.com/19508013/171302807-bbd09064-e7fe-4ff2-8060-ebff2525ec11.png)
-
-![image](https://user-images.githubusercontent.com/19508013/171302910-100b2d33-97df-46c6-9df5-8721c75ff98b.png)
