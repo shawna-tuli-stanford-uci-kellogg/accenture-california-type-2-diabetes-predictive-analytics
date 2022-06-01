@@ -4,7 +4,7 @@
 
 # 1. ![bmj](https://user-images.githubusercontent.com/19508013/171303111-5a6b928a-68f0-42aa-8598-8a058d7dddaa.png)
 
-![BMJ OPEN DIABETES RESEARCH   CARE](https://user-images.githubusercontent.com/19508013/170845344-6ef7a812-59e4-41a2-aae4-ef0493d44c1c.png)
+Q: Can we predict Type 2 Diabetes using AI in California?
 
 "Shawna is doing amazing job in leading the Accenture relationship with UC Irvine. She is spearheading the entire effort around Capstone Program which spans across two quarters where student work on a problem that is assigned to them by Accenture in the area of Data and AI. As a lead of this program, Shawna worked on 1. defining a problem that is around social good 2. identified relevant data 3. developed deliverables and timeline 4. helping and transitioning students. In addition, she is doing exemplary job keeping open communication with executive sponsors, keeping complete command on deliverables, understanding and solving technical challenges along the way. I am super excited to see Shawna grow in this role and very thankful for all the hard work that she does for this effort." - Vishrut Chokshi (Accenture Los Angeles Senior Manager, Data Science Enablement & Delivery Lead)
 
