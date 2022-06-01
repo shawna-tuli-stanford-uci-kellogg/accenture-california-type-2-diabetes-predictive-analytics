@@ -2,7 +2,7 @@
 
 ![acc_applied_intell_wordmark_all_blk](https://user-images.githubusercontent.com/19508013/165773969-b2c06500-a26a-4d3f-9346-e3a058607307.png)
 
-# BMJ Open Diabetes Research & Care 
+# 1. ![bmj](https://user-images.githubusercontent.com/19508013/171303111-5a6b928a-68f0-42aa-8598-8a058d7dddaa.png)
 
 ![BMJ OPEN DIABETES RESEARCH   CARE](https://user-images.githubusercontent.com/19508013/170845344-6ef7a812-59e4-41a2-aae4-ef0493d44c1c.png)
 
