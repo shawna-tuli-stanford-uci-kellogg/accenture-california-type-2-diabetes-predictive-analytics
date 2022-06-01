@@ -8,6 +8,8 @@ Q1: How can we predict the risk of type 2 diabetes in adults in California?
 
 Q2: Are there any events, including lifestyle practices, educational level, family history, or health behaviors that are associated with the risk of type 2 diabetes? 
 
+[Shawna Tuli Abstract](https://github.com/shawnatuli/accenture-california-type-2-diabetes-predictive-analytics/blob/main/Accenture%20Abstract.pdf) 
+
 "Shawna is doing amazing job in leading the Accenture relationship with UC Irvine. She is spearheading the entire effort around Capstone Program which spans across two quarters where student work on a problem that is assigned to them by Accenture in the area of Data and AI. As a lead of this program, Shawna worked on 1. defining a problem that is around social good 2. identified relevant data 3. developed deliverables and timeline 4. helping and transitioning students. In addition, she is doing exemplary job keeping open communication with executive sponsors, keeping complete command on deliverables, understanding and solving technical challenges along the way. I am super excited to see Shawna grow in this role and very thankful for all the hard work that she does for this effort." - Vishrut Chokshi (Accenture Los Angeles Senior Manager, Data Science Enablement & Delivery Lead)
 
 ![standard](https://user-images.githubusercontent.com/19508013/169395806-5f4e08f0-949e-4651-8f06-c9dfc00652b0.png)
