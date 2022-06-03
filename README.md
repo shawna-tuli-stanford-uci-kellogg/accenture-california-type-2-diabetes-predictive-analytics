@@ -10,7 +10,13 @@ Q2: Are there any events, including lifestyle practices, educational level, fami
 
 ∙ [Shawna Tuli Abstract](https://github.com/shawnatuli/accenture-california-type-2-diabetes-predictive-analytics/blob/main/Accenture%20Abstract.pdf) 
 
-"Shawna was my mentor for a project course that was done in conjunction with Accenture. She has been extremely helpful in her role, and was always quick and eager to give advice and feedback. It is clear that she is extremely passionate about her role and has an incredibly desire to make sure others are finding success." - Alvin Zou (UCI Data Science Graduate)
+"It is an honor to provide feedback for Shawna on her above and beyond contribution to UC Irvine Capstone program which is part of Accenture/Avanade university outreach program.
+UC Irvine Outreach Program started in 2021 and it was established to form a close partnership with a local university for recruiting top talents, working with students on projects which impacts our community and clients and amplify our brand awareness.
+Shawna is leading Capstone Program engagement. Capstone courses give UC Irvine students the opportunity to put their skills to the test by letting them work with Accenture/Avanade to solve real-world problems. 
+
+" - Vishrut Chokshi (Accenture Los Angeles Senior Manager, Data Science Enablement & Delivery Lead)
+
+"Shawna was my mentor for a project course that was done in conjunction with Accenture. She has been extremely helpful in her role, and was always quick and eager to give advice and feedback. It is clear that she is extremely passionate about her role and has an incredible desire to make sure others are finding success." - Alvin Zou (UCI Data Science Graduate)
 
 "I had the pleasure of having Shawna as my mentor for my UCI Data Science Capstone Project. Shawna mentored me for three months and provided advice not only on the project, but also on my career and personal life. She connected me with other professionals in the workplace who provided additional feedback on my project. What impressed me the most about Shawna was how passionate she was to make me succeed. She spared time on her days off to meet with me when I came across an issue in the project and patiently taught me when I made mistakes. I highly recommend Shawna because of how passionate she is about her job and how eager she is to share her knowledge with others to make them succeed." - Brian Wang (UCI Data Science Graduate)
 
