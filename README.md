@@ -12,6 +12,8 @@ Q2: Are there any events, including lifestyle practices, educational level, fami
 
 ∙ [Shawna Tuli Abstract](https://github.com/shawnatuli/accenture-california-type-2-diabetes-predictive-analytics/blob/main/Accenture%20Abstract.pdf) 
 
+Manuscript available in Summer 2022.
+
 "It is an honor to provide feedback for Shawna on her above and beyond contribution to UC Irvine Capstone program which is part of Accenture/Avanade university outreach program. 
 UC Irvine Outreach Program started in 2021 and it was established to form a close partnership with a local university for recruiting top talents, working with students on projects which impacts our community and clients and amplify our brand awareness. 
 Shawna is leading Capstone Program engagement. Capstone courses give UC Irvine students the opportunity to put their skills to the test by letting them work with Accenture/Avanade to solve real-world problems. 
