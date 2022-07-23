@@ -14,6 +14,11 @@ Q2: Are there any events, including lifestyle practices, educational level, fami
 
 Manuscript available in Summer 2022.
 
+"I had the pleasure of working with Shawna while she was one of the key members from Accenture / Avanade team leading the students from University of California at Irvine in the Capstone course. During this course, leaders AI / Data Analytics from industry team up with student to utilize AI in addressing some of society challenges. 
+Shawna led a data exploration and model development for predicting diabetes for different demographics in the state and helped build research-based credential.
+Shawna led the team and did a great job - she is a true "Teacher at Heart" working well by helping and guiding the students vs. doing all the work and also "managed up" well when working with the professors. 
+Thanks for the dedication, effort and the wonderful result. AI for the Good!!" - Marty Hodgett (Accenture Southern California Managing Director)
+
 "It is an honor to provide feedback for Shawna on her above and beyond contribution to UC Irvine Capstone program which is part of Accenture/Avanade university outreach program. 
 UC Irvine Outreach Program started in 2021 and it was established to form a close partnership with a local university for recruiting top talents, working with students on projects which impacts our community and clients and amplify our brand awareness. 
 Shawna is leading Capstone Program engagement. Capstone courses give UC Irvine students the opportunity to put their skills to the test by letting them work with Accenture/Avanade to solve real-world problems. 
