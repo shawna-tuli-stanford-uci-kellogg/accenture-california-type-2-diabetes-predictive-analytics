@@ -41,11 +41,9 @@ Shawna showed extreme patience and dedication to solve the people-related challe
 
 ![UCLA-CHIS-logo-1-1024x285](https://user-images.githubusercontent.com/19508013/165639797-0fcc7fa3-6822-435d-9be5-1f1a7c277267.png)
 
-# Presentation I
-
 ![image](https://user-images.githubusercontent.com/19508013/177665861-fa9560b6-191a-433a-bb79-f81a1a471336.png)
 
-# Presentation II
+# Presentation I
 
 ![1st](https://user-images.githubusercontent.com/19508013/172940720-3648b4da-cd92-4f44-bfff-898428ba3dff.PNG)
 
@@ -57,7 +55,7 @@ Shawna showed extreme patience and dedication to solve the people-related challe
 
 ![5th](https://user-images.githubusercontent.com/19508013/172940854-6b260a38-799c-48ad-9b64-959748fccaf2.png)
 
-# Presentation III 
+# Presentation II
 
 ![image](https://user-images.githubusercontent.com/19508013/171302807-bbd09064-e7fe-4ff2-8060-ebff2525ec11.png)
 
