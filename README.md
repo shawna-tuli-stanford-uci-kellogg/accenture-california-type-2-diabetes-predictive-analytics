@@ -20,7 +20,7 @@ Accenture’s Applied Intelligence business uses the latest AI technologies to s
 And those goals are at the heart of our partnership with the University of California Irvine (UCI) on their Data Science Capstone Program. The program enables computer science undergraduates at UCI to tackle serious problems and obtain real-world skills in problem-solving, planning and execution.
 Last year, our UCI project helped to show how AI could be used to prevent wildfires. For this year’s challenge, we are exploring AI’s role in addressing the growing threat of Type-2 diabetes, which can have severe long-term health consequences for various segments of the population. In California alone, more than 3.2 million people (10.5% of the adult population) have been diagnosed with diabetes — and nearly half of all adults are prediabetic or not yet diagnosed with the condition*.
 
-So what did we do to develop our framework?
+###### So what did we do to develop our framework?
 
 ## Identify, predict, and prevent
 
