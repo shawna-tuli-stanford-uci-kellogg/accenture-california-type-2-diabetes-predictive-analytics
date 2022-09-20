@@ -29,7 +29,9 @@ Having gathered the correct data, students then set to work to process and trans
 Choosing the right model
 We then tried several different machine-learning algorithms to identify which one worked best for our dataset and would provide the insights we were hoping to gain. Our final selection, XG Boost, combines several ML models to predict an outcome with the greatest accuracy.
 We arrived at a set of 10 key risk factors for Type-2 diabetes, from age, sex, weight to diet and heart disease. These indicators will enable health and social services to identify specific risk factors and levels of impact in a given population.
+
 Impact
+
 The impact that this model could have is boundless. We took publicly available data, a limited data set, and created an AI machine learning model. Imagine the possibilities of the model being used with quality data that is not limited.
 A direct outcome could be that healthcare providers can predict who is at risk from diabetes and instituting educational programs. On a broader scale, the data and the insights developed could be used in urban planning, transportation, and public health by ensuring that decisions support strategic goals by holistically and innovatively.
 We are proud of what our team has achieved. The end result of their work will be a paper submitted to the prestigious British Medical Journal Open Diabetes & Research Care. And the implications of what they developed could have a lasting and positive impact on public health.
@@ -37,8 +39,6 @@ For more about Accenture's AI capabilities, click here
 * UCLA Health - https://www.uclahealth.org/u-magazine/majority-of-california-adults-have-prediabetes-or-diabetes
 
 ∙ [Shawna Tuli Abstract](https://github.com/shawnatuli/accenture-california-type-2-diabetes-predictive-analytics/blob/main/Accenture%20Abstract.pdf) 
-
-Manuscript available in Summer 2022.
 
 "Shawna brings great energy, thought and dedication to her work. She has a wide range of skills enabling her to contribute in different ways and be a high performer in various roles. Her strong work ethic makes her highly valuable." - Manish Dasaur (Accenture Chief Data & Analytics Officer, Communications and Media North America)
 
@@ -54,6 +54,7 @@ Let me say this; this engagement would not have been a success if Shawna wasn't 
 Prior to the course kick-off, there is a huge challenge around finding a real-world problem with publicly available dataset that student can use to build Data and AI based product. Shawna worked with extreme diligence to find a comprehensive dataset for the use case to predict diabetes for the overall demographic of California. Based on this, we established an AI based product vision that is oriented around welfare of local community that students would work on for next 10 weeks. 
 Shawna did a fantastic job in challenging students at times with critical thinking and supporting students when needed - sometimes on weekends. Shawna led a data exploration and model development for predicting diabetes for population of California and helped build research-based credential which is ready to be published on a credible research journal.
 Shawna showed extreme patience and dedication to solve the people-related challenges and tirelessly worked with students to motivate them on solving for this complex Machine Learning model. She would handle communication with students, professor and senior managers and lead sprint demo, provide progress report and escalate issues. Throughout the program, there wasn't a single problem that Shawna couldn't solve. If it wasn't for Shawna's dedication, students wouldn't have delivered such product and credentials which our firm can use as credential in H&PS practice to sell more work. Based on this experience, I am convinced that Shawna is ready for the next level, and I fully support her promotion." - Vishrut Chokshi (Accenture Los Angeles Senior Manager, Data Science Enablement & Delivery Lead)
+_______________________________________________________________________________________________________________________________________________________________
 
 "Shawna was my mentor for a project course that was done in conjunction with Accenture. She has been extremely helpful in her role, and was always quick and eager to give advice and feedback. It is clear that she is extremely passionate about her role and has an incredible desire to make sure others are finding success." - Alvin Zou (UCI Data Science Graduate)
 
