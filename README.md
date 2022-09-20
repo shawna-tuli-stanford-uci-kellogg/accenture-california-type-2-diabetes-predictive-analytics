@@ -45,7 +45,7 @@ Shawna showed extreme patience and dedication to solve the people-related challe
 
 ![image](https://user-images.githubusercontent.com/19508013/177665861-fa9560b6-191a-433a-bb79-f81a1a471336.png)
 
-# Presentation
+# Student Presentation
 
 ![image](https://user-images.githubusercontent.com/19508013/171302807-bbd09064-e7fe-4ff2-8060-ebff2525ec11.png)
 
