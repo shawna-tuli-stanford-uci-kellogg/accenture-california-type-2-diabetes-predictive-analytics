@@ -12,7 +12,7 @@ Q2: Are there any events, including lifestyle practices, educational level, fami
 
 # How AI can transform community health
 
-###### Blood-sugar, data, and AI - How AI can transform community health
+## Blood-sugar, data, and AI - How AI can transform community health
 
 In the US, diabetes is the most expensive chronic condition and costs $237 billion annually. That equates to $1 out of every $4 is spent on direct medical costs for diabetes. The personal risk to diabetes patients is extensive and can include many issues including eye disease, kidney disease, heart disease, stroke and diabetes-related amputations.
 What if there was an AI model that could help predict Type-2 diabetes? Could we help society and the individuals at risk? Accenture partnered with the University of California Irvine (UCI) to put the question to the test.
@@ -22,7 +22,7 @@ Last year, our UCI project helped to show how AI could be used to prevent wildfi
 
 So what did we do to develop our framework?
 
-###### Identify, predict, and prevent
+## Identify, predict, and prevent
 
 Identifying and predicting who might develop diabetes is a vital step toward prevention; the aim of this year’s 14-week program. By using data and AI to create a predictive model of the multiple factors that play a role in causing diabetes, we set out with the UCI Computer Science students to shape a new approach to help support wellness in our community.
 As with any AI-led project, our first step was to identify, gather and evaluate the correct data. Because this is a health-related initiative, finding the right data can be complicated due to the sensitivities around personal information. That meant looking for publicly available data sets that we could use to conduct the required analysis. Having completed our initial search, we identified the most suitable data source to be the California Health Interview Survey. Spanning nearly a decade, this survey captures information across 785 different attributes in 12 key areas. It included demographic information, health behaviors, health insurance, employment, and income status.
@@ -32,7 +32,7 @@ Choosing the right model
 We then tried several different machine-learning algorithms to identify which one worked best for our dataset and would provide the insights we were hoping to gain. Our final selection, XG Boost, combines several ML models to predict an outcome with the greatest accuracy.
 We arrived at a set of 10 key risk factors for Type-2 diabetes, from age, sex, weight to diet and heart disease. These indicators will enable health and social services to identify specific risk factors and levels of impact in a given population.
 
-###### Impact
+## Impact
 
 The impact that this model could have is boundless. We took publicly available data, a limited data set, and created an AI machine learning model. Imagine the possibilities of the model being used with quality data that is not limited.
 A direct outcome could be that healthcare providers can predict who is at risk from diabetes and instituting educational programs. On a broader scale, the data and the insights developed could be used in urban planning, transportation, and public health by ensuring that decisions support strategic goals by holistically and innovatively.
