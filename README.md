@@ -4,6 +4,8 @@
 
 ![acc_applied_intell_wordmark_all_blk](https://user-images.githubusercontent.com/19508013/165773969-b2c06500-a26a-4d3f-9346-e3a058607307.png)
 
+![microsoft](https://user-images.githubusercontent.com/19508013/192884063-cd19b2ac-e5e3-4894-9adf-149792be39df.jpg)
+
 # How AI can transform community health
 
 Q1: How can we predict the risk of type 2 diabetes in adults in California?
