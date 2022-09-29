@@ -8,9 +8,9 @@
 
 # How AI can transform community health
 
-Q1. How can we predict the risk of type 2 diabetes in adults in California?
+Q1: How can we predict the risk of type 2 diabetes in adults in California?
 
-Q2. Are there any events, including lifestyle practices, educational level, family history, or health behaviors that are associated with the risk of type 2 diabetes?
+Q2: Are there any events, including lifestyle practices, educational level, family history, or health behaviors that are associated with the risk of type 2 diabetes?
 
 ## Blood-sugar, data, and AI - How AI can transform community health
 
