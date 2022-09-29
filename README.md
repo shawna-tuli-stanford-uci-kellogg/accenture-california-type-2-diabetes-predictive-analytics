@@ -38,7 +38,7 @@ The impact that this model could have is boundless. We took publicly available d
 A direct outcome could be that healthcare providers can predict who is at risk from diabetes and instituting educational programs. On a broader scale, the data and the insights developed could be used in urban planning, transportation, and public health by ensuring that decisions support strategic goals by holistically and innovatively.
 We are proud of what our team has achieved. The end result of their work will be a paper submitted to the prestigious British Medical Journal Open Diabetes & Research Care. And the implications of what they developed could have a lasting and positive impact on public health.
 For more about Accenture's AI capabilities, click here
-* UCLA Health - https://www.uclahealth.org/u-magazine/majority-of-california-adults-have-prediabetes-or-diabetes
+*UCLA Health - https://www.uclahealth.org/u-magazine/majority-of-california-adults-have-prediabetes-or-diabetes
 
 # Abstract
 
