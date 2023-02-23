@@ -94,6 +94,8 @@ Shawna showed extreme patience and dedication to solve the people-related challe
 
 ![UCLA-CHIS-logo-1-1024x285](https://user-images.githubusercontent.com/19508013/165639797-0fcc7fa3-6822-435d-9be5-1f1a7c277267.png)
 
+# Presentation
+
 ![image](https://user-images.githubusercontent.com/19508013/177665861-fa9560b6-191a-433a-bb79-f81a1a471336.png)
 
 # Student Presentation
