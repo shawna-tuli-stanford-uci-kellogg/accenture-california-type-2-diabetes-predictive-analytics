@@ -98,6 +98,41 @@ Shawna showed extreme patience and dedication to solve the people-related challe
 
 ![image](https://user-images.githubusercontent.com/19508013/177665861-fa9560b6-191a-433a-bb79-f81a1a471336.png)
 
+<img width="1014" alt="Screen Shot 2023-02-22 at 5 46 49 PM" src="https://user-images.githubusercontent.com/19508013/220808978-f1472f5e-c123-4af6-bdab-da37c6e6456c.png">
+<img width="1014" alt="Screen Shot 2023-02-22 at 5 46 54 PM" src="https://user-images.githubusercontent.com/19508013/220809065-a145c108-b8c9-4900-babb-c63eebef0d97.png">
+<img width="1014" alt="Screen Shot 2023-02-22 at 5 47 00 PM" src="https://user-images.githubusercontent.com/19508013/220809069-06984013-fcf7-42e7-8036-40e2f79c2712.png">
+<img width="1014" alt="Screen Shot 2023-02-22 at 5 47 18 PM" src="https://user-images.githubusercontent.com/19508013/220809070-1fcf0033-cb9c-4104-af92-e88939ba3589.png">
+<img width="1014" alt="Screen Shot 2023-02-22 at 5 47 23 PM" src="https://user-images.githubusercontent.com/19508013/220809071-877317ad-27a6-4436-af0a-c42adc48b537.png">
+<img width="1014" alt="Screen Shot 2023-02-22 at 5 47 28 PM" src="https://user-images.githubusercontent.com/19508013/220809073-96bb803d-193c-4094-a2bf-4d8d07ff1827.png">
+<img width="1014" alt="Screen Shot 2023-02-22 at 5 47 32 PM" src="https://user-images.githubusercontent.com/19508013/220809075-b1894140-5a80-4be8-9855-d656d4718662.png">
+<img width="1014" alt="Screen Shot 2023-02-22 at 5 47 36 PM" src="https://user-images.githubusercontent.com/19508013/220809077-449b7797-4177-4880-8465-f21357d4ec2f.png">
+<img width="1014" alt="Screen Shot 2023-02-22 at 5 47 47 PM" src="https://user-images.githubusercontent.com/19508013/220809078-081cf77f-afdd-4a28-9be0-f63c1bd6a171.png">
+<img width="1014" alt="Screen Shot 2023-02-22 at 5 47 51 PM" src="https://user-images.githubusercontent.com/19508013/220809080-22ff4b0e-86bd-4c26-9e48-64d5ab7789b6.png">
+<img width="1014" alt="Screen Shot 2023-02-22 at 5 47 54 PM" src="https://user-images.githubusercontent.com/19508013/220809082-2d6b6255-e822-476f-94c4-1a283756c785.png">
+<img width="1014" alt="Screen Shot 2023-02-22 at 5 47 59 PM" src="https://user-images.githubusercontent.com/19508013/220809084-468e29de-d4ef-46df-a6d1-a2fdb74abd2d.png">
+<img width="1014" alt="Screen Shot 2023-02-22 at 5 48 04 PM" src="https://user-images.githubusercontent.com/19508013/220809086-507a0870-57c1-4fc7-8736-cf823f3a863d.png">
+<img width="1014" alt="Screen Shot 2023-02-22 at 5 48 11 PM" src="https://user-images.githubusercontent.com/19508013/220809087-5e70bffc-2d19-4950-8b9c-45d899b10bc5.png">
+<img width="1014" alt="Screen Shot 2023-02-22 at 5 48 15 PM" src="https://user-images.githubusercontent.com/19508013/220809088-1d490352-9bfe-433a-b206-5c1436fc72ec.png">
+<img width="1014" alt="Screen Shot 2023-02-22 at 5 49 06 PM" src="https://user-images.githubusercontent.com/19508013/220809090-2b16104b-e01e-4129-966b-006878295ad1.png">
+<img width="1014" alt="Screen Shot 2023-02-22 at 5 49 34 PM" src="https://user-images.githubusercontent.com/19508013/220809092-0fe46ccb-13d2-4d7a-8360-fdd84f54ca5a.png">
+<img width="1014" alt="Screen Shot 2023-02-22 at 5 49 39 PM" src="https://user-images.githubusercontent.com/19508013/220809094-a4be38ac-e004-4203-82f0-fd72ef9cdff0.png">
+<img width="1014" alt="Screen Shot 2023-02-22 at 5 49 42 PM" src="https://user-images.githubusercontent.com/19508013/220809095-60d47d17-031d-442c-ac75-b1f5dec1cbbd.png">
+<img width="1014" alt="Screen Shot 2023-02-22 at 5 50 55 PM" src="https://user-images.githubusercontent.com/19508013/220809097-c99c904a-eb1a-4f53-bfeb-f0ce58ff8679.png">
+<img width="1014" alt="Screen Shot 2023-02-22 at 5 50 58 PM" src="https://user-images.githubusercontent.com/19508013/220809100-c895bdd1-28eb-4e0e-8fe6-72dd1278ed28.png">
+<img width="1014" alt="Screen Shot 2023-02-22 at 5 51 06 PM" src="https://user-images.githubusercontent.com/19508013/220809101-183b697d-ed22-4ccb-931d-2f2968f628d6.png">
+<img width="1014" alt="Screen Shot 2023-02-22 at 5 51 10 PM" src="https://user-images.githubusercontent.com/19508013/220809103-fb8b1a80-b81f-4185-b512-a4e1a91d6fad.png">
+<img width="1014" alt="Screen Shot 2023-02-22 at 5 51 19 PM" src="https://user-images.githubusercontent.com/19508013/220809104-d13026d8-05e1-41fb-aa77-5204c4b33337.png">
+<img width="1014" alt="Screen Shot 2023-02-22 at 5 51 25 PM" src="https://user-images.githubusercontent.com/19508013/220809105-d37485c4-e033-4a47-94fe-9d3592eceea3.png">
+<img width="1014" alt="Screen Shot 2023-02-22 at 5 51 35 PM" src="https://user-images.githubusercontent.com/19508013/220809107-c460b646-7d3b-47f8-9391-b14bbf73fa07.png">
+<img width="1014" alt="Screen Shot 2023-02-22 at 5 51 38 PM" src="https://user-images.githubusercontent.com/19508013/220809109-b7a57dfd-9712-46aa-b19a-5f7ac2111f20.png">
+<img width="1014" alt="Screen Shot 2023-02-22 at 5 51 42 PM" src="https://user-images.githubusercontent.com/19508013/220809111-47523c28-4d8d-4842-841d-69e4fa813466.png">
+<img width="1014" alt="Screen Shot 2023-02-22 at 5 51 52 PM" src="https://user-images.githubusercontent.com/19508013/220809113-2b107809-ceb4-45f7-9249-3da365f90410.png">
+<img width="1014" alt="Screen Shot 2023-02-22 at 5 51 56 PM" src="https://user-images.githubusercontent.com/19508013/220809114-9af3691d-c0db-470f-a583-33608733a95d.png">
+<img width="1014" alt="Screen Shot 2023-02-22 at 5 52 06 PM" src="https://user-images.githubusercontent.com/19508013/220809115-00d62d7b-74c0-4239-993b-99a44c99bf88.png">
+<img width="1014" alt="Screen Shot 2023-02-22 at 5 52 10 PM" src="https://user-images.githubusercontent.com/19508013/220809117-f3b16671-b461-432a-bbd7-24fd9d24db33.png">
+<img width="1014" alt="Screen Shot 2023-02-22 at 5 52 13 PM" src="https://user-images.githubusercontent.com/19508013/220809119-0d9d7477-5628-46be-9fb1-890c3be7db13.png">
+<img width="1014" alt="Screen Shot 2023-02-22 at 5 52 17 PM" src="https://user-images.githubusercontent.com/19508013/220809121-33b846e2-7642-4cb5-8274-9e0d819727dc.png">
+
 # Student Presentation
 
 ![image](https://user-images.githubusercontent.com/19508013/171302807-bbd09064-e7fe-4ff2-8060-ebff2525ec11.png)
