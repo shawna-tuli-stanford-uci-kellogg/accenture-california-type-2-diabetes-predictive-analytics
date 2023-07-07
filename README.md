@@ -6,7 +6,7 @@
 
 ![microsoft](https://user-images.githubusercontent.com/19508013/192884063-cd19b2ac-e5e3-4894-9adf-149792be39df.jpg)
 
-# UCLA
+### UCLA
 • [Majority of California adults have prediabetes or diabetes](https://newsroom.ucla.edu/releases/majority-of-california-adults-have-prediabetes-or-diabetes)
 
 # How AI can transform community health
