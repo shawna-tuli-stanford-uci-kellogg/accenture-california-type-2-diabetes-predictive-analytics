@@ -44,7 +44,7 @@ For more about Accenture's AI capabilities, click here
 
 *UCLA Health - https://www.uclahealth.org/u-magazine/majority-of-california-adults-have-prediabetes-or-diabetes
 
-# Abstract
+## Abstract
 
 Type 2 diabetes is a rising problem among the California population, with nearly half of all
 adults in California being pre-diabetic or undiagnosed. The purpose of this study is to determine
