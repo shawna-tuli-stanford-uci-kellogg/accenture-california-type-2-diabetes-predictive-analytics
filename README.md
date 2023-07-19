@@ -6,6 +6,8 @@
 
 ![microsoft](https://user-images.githubusercontent.com/19508013/192884063-cd19b2ac-e5e3-4894-9adf-149792be39df.jpg)
 
+Nominated for the Accenture V360 Awards in Innovation. 
+
 # UCLA
 • [Majority of California adults have prediabetes or diabetes](https://newsroom.ucla.edu/releases/majority-of-california-adults-have-prediabetes-or-diabetes)
 
