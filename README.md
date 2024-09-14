@@ -10,17 +10,17 @@ Nominated for the Accenture V360 Awards in Innovation.
 
 # How AI can transform community health
 
-Q1: How can we predict the risk of type 2 diabetes in adults in California?
+Q1: How can we predict the risk of Type 2 diabetes in adults in California?
 
-Q2: Are there any events, including lifestyle practices, educational level, family history, or health behaviors that are associated with the risk of type 2 diabetes?
+Q2: Are there any events, including lifestyle practices, educational level, family history, or health behaviors that are associated with the risk of Type 2 diabetes?
 
 ## Blood-sugar, data, and AI - How AI can transform community health
 
 In the US, diabetes is the most expensive chronic condition and costs $237 billion annually. That equates to $1 out of every $4 is spent on direct medical costs for diabetes. The personal risk to diabetes patients is extensive and can include many issues including eye disease, kidney disease, heart disease, stroke and diabetes-related amputations.
-What if there was an AI model that could help predict Type-2 diabetes? Could we help society and the individuals at risk? Accenture partnered with the University of California Irvine (UCI) to put the question to the test.
+What if there was an AI model that could help predict Type 2 diabetes? Could we help society and the individuals at risk? Accenture partnered with the University of California Irvine (UCI) to put the question to the test.
 Accenture’s Applied Intelligence business uses the latest AI technologies to solve real-world challenges. This work is central to our commitment to harness the growing power of AI to improve outcomes that matter to everyone, helping to create a healthier, greener, and more sustainable world. These same goals are at the heart of Accenture’s purpose.
 And those goals are at the heart of our partnership with the University of California Irvine (UCI) on their Data Science Capstone Program. The program enables computer science undergraduates at UCI to tackle serious problems and obtain real-world skills in problem-solving, planning and execution.
-Last year, our UCI project helped to show how AI could be used to prevent wildfires. For this year’s challenge, we are exploring AI’s role in addressing the growing threat of Type-2 diabetes, which can have severe long-term health consequences for various segments of the population. In California alone, more than 3.2 million people (10.5% of the adult population) have been diagnosed with diabetes — and nearly half of all adults are prediabetic or not yet diagnosed with the condition*.
+Last year, our UCI project helped to show how AI could be used to prevent wildfires. For this year’s challenge, we are exploring AI’s role in addressing the growing threat of Type 2 diabetes, which can have severe long-term health consequences for various segments of the population. In California alone, more than 3.2 million people (10.5% of the adult population) have been diagnosed with diabetes — and nearly half of all adults are prediabetic or not yet diagnosed with the condition*.
 
 ###### So what did we do to develop our framework?
 
@@ -32,7 +32,7 @@ Prepping for data analysis
 Having gathered the correct data, students then set to work to process and transform it so that it was ready for exploratory data analysis. That narrowed down the number of attributes from 785 to 245 that could be turned into features. One of the issues that we needed to overcome was class imbalance. This is a common issue in health data, with a far higher proportion of negative cases. If not accounted for properly, the analysis can be biased. We dealt with this by using two different techniques, cost-sensitive learning and synthetic minority oversampling, which enabled us to adjust for error and bias.
 Choosing the right model
 We then tried several different machine-learning algorithms to identify which one worked best for our dataset and would provide the insights we were hoping to gain. Our final selection, XG Boost, combines several ML models to predict an outcome with the greatest accuracy.
-We arrived at a set of 10 key risk factors for Type-2 diabetes, from age, sex, weight to diet and heart disease. These indicators will enable health and social services to identify specific risk factors and levels of impact in a given population.
+We arrived at a set of 10 key risk factors for Type 2 diabetes, from age, sex, weight to diet and heart disease. These indicators will enable health and social services to identify specific risk factors and levels of impact in a given population.
 
 ## Impact
 
@@ -47,7 +47,7 @@ For more about Accenture's AI capabilities, click here
 
 Type 2 diabetes is a rising problem among the California population, with nearly half of all
 adults in California being pre-diabetic or undiagnosed. The purpose of this study is to determine
-what factors may contribute to the presence of type 2 diabetes, and whether the risk of type 2
+what factors may contribute to the presence of Type 2 diabetes, and whether the risk of Type 2
 diabetes can be predicted using these factors. To achieve this, we analyzed public survey data
 from the California Health Interview Survey (CHIS) - a statewide health survey conducted yearly
 by the UCLA Center for Health Policy Research. Participants were aged 18 or older, and
@@ -61,10 +61,10 @@ class imbalance of the dependent variable, we implemented cost-sensitive learnin
 to each model. The accuracy of each model was evaluated using its F1 and AUC scores. The
 results indicate the XGBoost model had the highest scores. This model performed with a F1
 score of 0.897 and an AUC score of 0.874. Given the results, the model demonstrated a strong
-capability of accurately predicting the risk of type 2 diabetes in California adults and the fitted
+capability of accurately predicting the risk of Type 2 diabetes in California adults and the fitted
 variables may be significantly tied to affecting the risk. Therefore, it can be valuable for an
 individual to monitor these factors. In conclusion, the most significant factors for predicting the
-risk of type 2 diabetes is BMI, high blood pressure, and if they have prediabetes.
+risk of Type 2 diabetes is BMI, high blood pressure, and if they have prediabetes.
 _______________________________________________________________________________________________________________________________________________________________
 
 "Shawna brings great energy, thought and dedication to her work. She has a wide range of skills enabling her to contribute in different ways and be a high performer in various roles. Her strong work ethic makes her highly valuable." - Manish Dasaur (Accenture Chief Data & Analytics Officer, Communications & Media North America)
