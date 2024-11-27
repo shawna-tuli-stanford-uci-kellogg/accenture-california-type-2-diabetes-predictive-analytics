@@ -5,7 +5,6 @@
 
 Nominated for the Accenture V360 Awards in Innovation. 
 
-# UCLA
 • [Majority of California adults have prediabetes or diabetes](https://newsroom.ucla.edu/releases/majority-of-california-adults-have-prediabetes-or-diabetes)
 
 # How AI can transform community health
