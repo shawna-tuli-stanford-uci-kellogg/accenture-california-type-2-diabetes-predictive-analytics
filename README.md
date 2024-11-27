@@ -7,7 +7,7 @@ Nominated for the Accenture V360 Awards in Innovation.
 
 • [Majority of California adults have prediabetes or diabetes](https://newsroom.ucla.edu/releases/majority-of-california-adults-have-prediabetes-or-diabetes)
 
-# How AI can transform community health
+# California Type 2 Diabetes Prediction
 
 Q1: How can we predict the risk of Type 2 diabetes in adults in California?
 
