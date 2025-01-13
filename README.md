@@ -1,6 +1,9 @@
 ![2560px-Accenture svg](https://user-images.githubusercontent.com/19508013/165648323-9c318167-71a7-4e3c-aa6d-4f1324f528b2.png)
+
 ![acc_applied_intell_wordmark_all_blk](https://user-images.githubusercontent.com/19508013/165773969-b2c06500-a26a-4d3f-9346-e3a058607307.png)
+
 ![avanade](https://user-images.githubusercontent.com/19508013/171925483-b62112fb-ae77-4a61-b74c-50187d7e8774.jpg)
+
 ![microsoft](https://user-images.githubusercontent.com/19508013/192884063-cd19b2ac-e5e3-4894-9adf-149792be39df.jpg)
 
 Nominated for the Accenture V360 Awards in Innovation. 
